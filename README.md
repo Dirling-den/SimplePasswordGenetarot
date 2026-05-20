@@ -1,0 +1,2 @@
+# SimplePasswordGenetarot
+PasswordGenerator on C++
